@@ -5,8 +5,7 @@
 - 👯 I’m looking to collaborate on everyrthing.
 - 🤔 I’m looking for help with JavaScript
 - 📫 How to reach me: shaw.corey@gmail.com
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I am a Gymnastics instructor
+- ⚡ Fun fact: I am a former gymnastics instructor
 <!--
 **shawcorey/shawcorey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
