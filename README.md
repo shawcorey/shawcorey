@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on my blogapp.
 - 🌱 I’m currently learning Spring and MySQL
 - 👯 I’m looking to collaborate on everyrthing.
-- 🤔 I’m looking for help with JavaScript
+- 🤔 I’m looking for help with Spring
 - 📫 How to reach me: shaw.corey@gmail.com
 - ⚡ Fun fact: I am a former gymnastics instructor
 <!--
