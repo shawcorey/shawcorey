@@ -18,4 +18,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: shaw.corey@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I am a Gymnastics instructor 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shawcorey)](https://github.com/anuraghazra/github-readme-stats)
+
 -->
