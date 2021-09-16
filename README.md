@@ -1,4 +1,5 @@
-### Hi there 👋
+
+![My Post](https://user-images.githubusercontent.com/30012443/133675988-c1e028ff-f810-4e9d-a38e-40d01e0f0a46.png)
 
 - 🔭 I’m currently working on my blogapp 👨🏾‍💻.
 - 🌱 I’m currently learning Spring and MySQL.
