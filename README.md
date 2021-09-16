@@ -1,5 +1,6 @@
 
-![My Post](https://user-images.githubusercontent.com/30012443/133675988-c1e028ff-f810-4e9d-a38e-40d01e0f0a46.png)
+![Logo](https://user-images.githubusercontent.com/30012443/133676188-b43e9bd3-4d0d-4a67-ad32-26b10cc8f11c.png)
+
 
 - 🔭 I’m currently working on my blogapp 👨🏾‍💻.
 - 🌱 I’m currently learning Spring and MySQL.
