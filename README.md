@@ -3,6 +3,7 @@
 
 
 - 🔭 I’m currently working on my blogapp and other apps👨🏾‍💻.
+- www.coreylshaw.com
 - 🌱 I’m currently learning React.
 - 📫 How to reach me: shaw.corey@gmail.com
 - ⚡ Fun fact: I am a former gymnastics instructor 🤸🏾‍♂️ 🤸🏾‍♂️
