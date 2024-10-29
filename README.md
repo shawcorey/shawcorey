@@ -3,6 +3,8 @@
 
 
 - 🔭 I’m currently working on several apps👨🏾‍💻.
+- Workout App
+- Android
 - My blog is complete!
 - www.coreylshaw.com
 - 🌱 I’m currently learning React and Node.js.
