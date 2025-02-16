@@ -3,12 +3,11 @@
 
 
 - 🔭 I’m currently working on several apps👨🏾‍💻.
-- Workout App
-- Android
+- Workout App 
 - My blog is complete!
 - www.coreylshaw.com
 - 🌱 I’m currently learning React and Node.js.
-- 📫 How to reach me: shaw.corey@gmail.com
+- 📫 How to reach me: corey@coreylshaw.com
 - ⚡ Fun fact: I am a former gymnastics instructor 🤸🏾‍♂️ 🤸🏾‍♂️
 - [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shawcorey)](https://github.com/anuraghazra/github-readme-stats)
 <!--
